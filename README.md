@@ -1,2 +1,2 @@
-# poo
+# poo-java
 Exercícios;
